@@ -3,8 +3,6 @@
 [![CI](https://github.com/Oefenweb/ansible-ssh-keys/workflows/CI/badge.svg)](https://github.com/Oefenweb/ansible-ssh-keys/actions?query=workflow%3ACI)
 [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-ssh--keys-blue.svg)](https://galaxy.ansible.com/Oefenweb/ssh_keys)
 
-Manage ssh public key authentication (public / private / authorized keys and known hosts) in Debian-like systems.
-
 #### Requirements
 
 None
@@ -90,12 +88,3 @@ None
 #### License
 
 MIT
-
-#### Author Information
-
-* Mark van Driel
-* Mischa ter Smitten
-
-#### Feedback, bug-reports, requests, ...
-
-Are [welcome](https://github.com/Oefenweb/ansible-ssh-keys/issues)!
